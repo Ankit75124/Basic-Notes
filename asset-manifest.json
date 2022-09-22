@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/Basic-Notes.git/static/js/main.99d128b2.js",
-    "index.html": "/Basic-Notes.git/index.html",
-    "main.99d128b2.js.map": "/Basic-Notes.git/static/js/main.99d128b2.js.map"
+    "main.js": "/Basic-Notes/static/js/main.133698b9.chunk.js",
+    "main.js.map": "/Basic-Notes/static/js/main.133698b9.chunk.js.map",
+    "runtime-main.js": "/Basic-Notes/static/js/runtime-main.7bcea9aa.js",
+    "runtime-main.js.map": "/Basic-Notes/static/js/runtime-main.7bcea9aa.js.map",
+    "static/js/2.c6db2bb7.chunk.js": "/Basic-Notes/static/js/2.c6db2bb7.chunk.js",
+    "static/js/2.c6db2bb7.chunk.js.map": "/Basic-Notes/static/js/2.c6db2bb7.chunk.js.map",
+    "index.html": "/Basic-Notes/index.html",
+    "precache-manifest.a2b66b4d936a4e7a5f0835e0a88fff4d.js": "/Basic-Notes/precache-manifest.a2b66b4d936a4e7a5f0835e0a88fff4d.js",
+    "service-worker.js": "/Basic-Notes/service-worker.js"
   },
   "entrypoints": [
-    "static/js/main.99d128b2.js"
+    "static/js/runtime-main.7bcea9aa.js",
+    "static/js/2.c6db2bb7.chunk.js",
+    "static/js/main.133698b9.chunk.js"
   ]
 }
